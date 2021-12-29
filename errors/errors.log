@@ -1,0 +1,7 @@
+[2021/12/29 3:04:05 AM]{
+	Error File: /media/tpct/250263A6544743D3/fproject/models/PostDataModel.php
+	Line Number: 30
+	Error String: {
+	    Only variables should be passed by reference
+	}
+}
